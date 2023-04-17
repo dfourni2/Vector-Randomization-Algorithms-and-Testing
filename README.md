@@ -1,6 +1,6 @@
 # Vector-Randomization-Algorithms-and-Testing\
 
-This project was created to understand how different randomization algorithms compare to eachother. Each group member created their own randomization algorithm then we created a way to test how effective each one was at randomizing a vector. Comments and print statements in the main class and random header file point out which group member wrote each algorithm. The test function that we wrote goes through 5000 iterations of randomizing the vector. This then analyzes truely how random the vectors were. The "perfectly" random algorithm would get a score of 0.05. The results of testing our two best algorithms are seen below.
+This project was created to understand how different randomization algorithms compare to eachother exclusively written in C++. Each group member created their own randomization algorithm then we created a way to test how effective each one was at randomizing a vector. Comments and print statements in the main class and random header file point out which group member wrote each algorithm. The test function that we wrote goes through 5000 iterations of randomizing the vector. This then analyzes truely how random the vectors were. The "perfectly" random algorithm would get a score of 0.05. The results of testing our two best algorithms are seen below.
 
 # Testing Results:
 bksoucyRand()
